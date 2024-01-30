@@ -25,8 +25,11 @@ Route::get('/blog-details', function () {
 Route::get('/courses', function () {
     return view('courses');
 });
-Route::get('/single-courses', function () {
-    return view('single-courses');
+Route::get('/single-course', function () {
+    return view('single-course');
+});
+Route::get('/free-local-seo-course', function () {
+    return view('free-local-seo-course');
 });
 Route::get('/free-off-page-seo-course', function () {
     return view('free-off-page-seo-course');
