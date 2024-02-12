@@ -13,7 +13,7 @@
                             <form class="newsletter-form" data-toggle="validator">
                                 <label><i class='bx bx-envelope-open'></i></label>
                                 <input type="text" class="input-newsletter" placeholder="Enter your mail" name="EMAIL"
-                                    required autocomplete="off">
+                                       required autocomplete="off">
                                 <button type="submit" class="default-btn">Get Started Now</button>
                                 <div id="validator-newsletter1" class="form-result"></div>
                             </form>
@@ -163,7 +163,7 @@
                             <span class="cr-price">$29.07</span>
                             <h3><a href="single-course">Financial Security Thinking and Principles Theory</a></h3>
                             <ul class="cr-items">
-                                <li><i class='bx bx-food-menu'></i> <span>2 Lessons</span> </li>
+                                <li><i class='bx bx-food-menu'></i> <span>2 Lessons</span></li>
                                 <li><i class='bx bx-time-five'></i> <span>4h 30m</span></li>
                                 <li><i class='bx bx-star'></i> <span>4.5</span></li>
                             </ul>
@@ -184,7 +184,7 @@
                             <span class="cr-price">$80</span>
                             <h3><a href="single-course">Basic Fundamentals of Interior & Graphics Design</a></h3>
                             <ul class="cr-items">
-                                <li><i class='bx bx-food-menu'></i> <span>2 Lessons</span> </li>
+                                <li><i class='bx bx-food-menu'></i> <span>2 Lessons</span></li>
                                 <li><i class='bx bx-time-five'></i> <span>4h 30m</span></li>
                                 <li><i class='bx bx-star'></i> <span>4.5</span></li>
                             </ul>
@@ -205,7 +205,7 @@
                             <span class="cr-price">$25.20</span>
                             <h3><a href="single-course">Increasing Engagement with Instagram & Facebook</a></h3>
                             <ul class="cr-items">
-                                <li><i class='bx bx-food-menu'></i> <span>2 Lessons</span> </li>
+                                <li><i class='bx bx-food-menu'></i> <span>2 Lessons</span></li>
                                 <li><i class='bx bx-time-five'></i> <span>4h 30m</span></li>
                                 <li><i class='bx bx-star'></i> <span>4.5</span></li>
                             </ul>
@@ -226,7 +226,7 @@
                             <span class="cr-price">$75</span>
                             <h3><a href="single-course">Introduction to Color Theory & Basic UI/UX </a></h3>
                             <ul class="cr-items">
-                                <li><i class='bx bx-food-menu'></i> <span>2 Lessons</span> </li>
+                                <li><i class='bx bx-food-menu'></i> <span>2 Lessons</span></li>
                                 <li><i class='bx bx-time-five'></i> <span>4h 30m</span></li>
                                 <li><i class='bx bx-star'></i> <span>4.5</span></li>
                             </ul>
@@ -247,7 +247,7 @@
                             <span class="cr-price">$36.20</span>
                             <h3><a href="single-course">Financial Security Thinking and Principles Theory</a></h3>
                             <ul class="cr-items">
-                                <li><i class='bx bx-food-menu'></i> <span>2 Lessons</span> </li>
+                                <li><i class='bx bx-food-menu'></i> <span>2 Lessons</span></li>
                                 <li><i class='bx bx-time-five'></i> <span>4h 30m</span></li>
                                 <li><i class='bx bx-star'></i> <span>4.5</span></li>
                             </ul>
@@ -268,7 +268,7 @@
                             <span class="cr-price">$38</span>
                             <h3><a href="single-course">Free Logo Design: From Concept to Presentation</a></h3>
                             <ul class="cr-items">
-                                <li><i class='bx bx-food-menu'></i> <span>2 Lessons</span> </li>
+                                <li><i class='bx bx-food-menu'></i> <span>2 Lessons</span></li>
                                 <li><i class='bx bx-time-five'></i> <span>4h 30m</span></li>
                                 <li><i class='bx bx-star'></i> <span>4.5</span></li>
                             </ul>
@@ -346,7 +346,7 @@
                     <div class="subscribe-from">
                         <form class="newsletter-form" data-toggle="validator">
                             <input type="text" class="input-newsletter" placeholder="Enter your email address"
-                                name="EMAIL" required autocomplete="off">
+                                   name="EMAIL" required autocomplete="off">
                             <button type="submit" class="default-btn">Get Started Now</button>
                             <div id="validator-newsletter3" class="form-result"></div>
                         </form>
@@ -364,104 +364,24 @@
                 <p class="sub-title">Start Learning From Today</p>
                 <h2>Popular <span class="shape02">Topics</span> To Learn </h2>
             </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <a href="#" class="topic-box">
-                        <div class="single-topic-box lg-01">
-                            <div class="icon">
-                                <img src="{{ config('app.url') }}/assets/img/icon/t1.svg" alt="icon">
-                            </div>
-                            <div class="content">
-                                <h3>Digital Marketing Strategies</h3>
-                            </div>
+            @if(isset($categories) && count($categories) > 0)
+                <div class="row justify-content-center">
+                    @foreach($categories as $category)
+                        <div class="col-lg-3 col-md-6 col-sm-12">
+                            <a href="{{ route('blogs.category', $category->slug) }}" class="topic-box">
+                                <div class="single-topic-box lg-01">
+                                    <div class="icon">
+                                        <img src="{{Voyager::image($category->icon)}}" alt="icon">
+                                    </div>
+                                    <div class="content">
+                                        <h3>{{$category->name}}</h3>
+                                    </div>
+                                </div>
+                            </a>
                         </div>
-                    </a>
+                    @endforeach
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <a href="#" class="topic-box">
-                        <div class="single-topic-box lg-02">
-                            <div class="icon">
-                                <img src="{{ config('app.url') }}/assets/img/icon/t2.svg" alt="icon">
-                            </div>
-                            <div class="content">
-                                <h3>Medical Knowledge</h3>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <a href="#" class="topic-box">
-                        <div class="single-topic-box lg-03">
-                            <div class="icon">
-                                <img src="{{ config('app.url') }}/assets/img/icon/t3.svg" alt="icon">
-                            </div>
-                            <div class="content">
-                                <h3>Social Knowledge</h3>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <a href="#" class="topic-box">
-                        <div class="single-topic-box lg-02">
-                            <div class="icon">
-                                <img src="{{ config('app.url') }}/assets/img/icon/t4.svg" alt="icon">
-                            </div>
-                            <div class="content">
-                                <h3> Lyrics Writting Tips</h3>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <a href="#" class="topic-box">
-                        <div class="single-topic-box lg-03">
-                            <div class="icon">
-                                <img src="{{ config('app.url') }}/assets/img/icon/t5.svg" alt="icon">
-                            </div>
-                            <div class="content">
-                                <h3>Google My Business Tips</h3>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <a href="#" class="topic-box">
-                        <div class="single-topic-box lg-04">
-                            <div class="icon">
-                                <img src="{{ config('app.url') }}/assets/img/icon/t6.svg" alt="icon">
-                            </div>
-                            <div class="content">
-                                <h3>Finances Tips</h3>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <a href="#" class="topic-box">
-                        <div class="single-topic-box lg-05">
-                            <div class="icon">
-                                <img src="{{ config('app.url') }}/assets/img/icon/t7.svg" alt="icon">
-                            </div>
-                            <div class="content">
-                                <h3>Global Science</h3>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
-                    <a href="#" class="topic-box">
-                        <div class="single-topic-box lg-01">
-                            <div class="icon">
-                                <img src="{{ config('app.url') }}/assets/img/icon/t8.svg" alt="icon">
-                            </div>
-                            <div class="content">
-                                <h3>Game Design</h3>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
+            @endif
         </div>
     </div>
     <!-- End Educated Topics Area -->
@@ -693,13 +613,13 @@
                         <div class="accordion-item faq-item">
                             <h2 class="faq-header" id="flush-headingOne">
                                 <button class="accordion-button faq-button collapsed" type="button"
-                                    data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false"
-                                    aria-controls="flush-collapseOne">
+                                        data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false"
+                                        aria-controls="flush-collapseOne">
                                     What does it take excellent author?
                                 </button>
                             </h2>
                             <div id="flush-collapseOne" class="accordion-collapse collapse faq-collapse"
-                                aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                                 aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                                 <div class="faq-item-body">
                                     <p>Learn at your own pace, move between multiple courses, or switch to a different
                                         course. Earn a certificate for every learning program that you complete at no
@@ -710,13 +630,13 @@
                         <div class="accordion-item faq-item">
                             <h2 class="faq-header" id="flush-headingTow">
                                 <button class="accordion-button faq-button collapsed" type="button"
-                                    data-bs-toggle="collapse" data-bs-target="#flush-collapseTow" aria-expanded="false"
-                                    aria-controls="flush-collapseTow">
+                                        data-bs-toggle="collapse" data-bs-target="#flush-collapseTow" aria-expanded="false"
+                                        aria-controls="flush-collapseTow">
                                     Who will view my content?
                                 </button>
                             </h2>
                             <div id="flush-collapseTow" class="accordion-collapse collapse faq-collapse"
-                                aria-labelledby="flush-headingTow" data-bs-parent="#accordionFlushExample">
+                                 aria-labelledby="flush-headingTow" data-bs-parent="#accordionFlushExample">
                                 <div class="faq-item-body">
                                     <p>Learn at your own pace, move between multiple courses, or switch to a different
                                         course. Earn a certificate for every learning program that you complete at no
@@ -727,13 +647,13 @@
                         <div class="accordion-item faq-item">
                             <h2 class="faq-header" id="flush-headingThree">
                                 <button class="accordion-button faq-button collapsed" type="button"
-                                    data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false"
-                                    aria-controls="flush-collapseThree">
+                                        data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false"
+                                        aria-controls="flush-collapseThree">
                                     What does it take become an author?
                                 </button>
                             </h2>
                             <div id="flush-collapseThree" class="accordion-collapse collapse faq-collapse"
-                                aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                                 aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                                 <div class="faq-item-body">
                                     <p>Learn at your own pace, move between multiple courses, or switch to a different
                                         course. Earn a certificate for every learning program that you complete at no
@@ -744,13 +664,13 @@
                         <div class="accordion-item faq-item">
                             <h2 class="faq-header" id="flush-headingFour">
                                 <button class="accordion-button faq-button collapsed" type="button"
-                                    data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false"
-                                    aria-controls="flush-collapseFour">
+                                        data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false"
+                                        aria-controls="flush-collapseFour">
                                     How to Change my Password easily?
                                 </button>
                             </h2>
                             <div id="flush-collapseFour" class="accordion-collapse collapse faq-collapse"
-                                aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
+                                 aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
                                 <div class="faq-item-body">
                                     <p>Learn at your own pace, move between multiple courses, or switch to a different
                                         course. Earn a certificate for every learning program that you complete at no

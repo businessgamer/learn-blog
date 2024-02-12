@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\IndexController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,36 +14,19 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
-Route::get('/blog', function () {
-    return view('blog');
-});
-Route::get('/blog-details', function () {
-    return view('blog-details');
-});
-Route::get('/courses', function () {
-    return view('courses');
-});
-Route::get('/single-course', function () {
-    return view('single-course');
-});
-Route::get('/free-local-seo-course', function () {
-    return view('free-local-seo-course');
-});
-Route::get('/free-off-page-seo-course', function () {
-    return view('free-off-page-seo-course');
-});
-Route::get('/free-on-page-seo-course', function () {
-    return view('free-on-page-seo-course');
-});
-Route::get('/free-technical-seo-course', function () {
-    return view('free-technical-seo-course');
-});
-
-
-
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
 });
+
+Route::get('/', [IndexController::class, 'index'])->name('index');
+Route::get('/blogs', [IndexController::class, 'blogs'])->name('blogs');
+Route::get('/blog/{slug}', [IndexController::class, 'blogDetail'])->name('blog.slug');
+Route::get('/tag/{tag}', [IndexController::class, 'tagBlogs'])->name('blog.tag');
+Route::get('/author/{id}', [IndexController::class, 'authorPage'])->name('author');
+
+Route::get('/courses', [IndexController::class, 'courses']);
+// Route::get('/course/{slug}', function () {
+//     return view('course-single');
+// })->name('course.slug');
+
+Route::get('/{category}', [IndexController::class, 'categoryBlogs'])->name('blogs.category');

@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="{{ config('app.url') }}/assets/css/style.css">
     <link rel="stylesheet" href="{{ config('app.url') }}/assets/css/responsive.css">
 
-    <title>{{ setting('site.title') }}</title>
+    <title>{{ $title ?? '' }} {{ setting('site.title') }}</title>
     <link rel="icon" type="image/png" href="{{ config('app.url') }}/assets/img/all-img/favicon.png">
 </head>
 
