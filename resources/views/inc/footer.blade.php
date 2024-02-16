@@ -22,11 +22,11 @@
                         <div class="single-footer-widget pl-5">
                             <h3>Links</h3>
                             <ul class="links-list">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="about">About Us</a></li>
+                                <li><a href="/">Home</a></li>
+                                <li><a href="/about">About Us</a></li>
 
-                                <li><a href="services-details">Courses</a></li>
-                                <li><a href="contact">Contact Us</a></li>
+                                <li><a href="/contact">Courses</a></li>
+                                <li><a href="/contact">Contact Us</a></li>
 
                             </ul>
                         </div>
@@ -35,10 +35,10 @@
                         <div class="single-footer-widget">
                             <h3>Infomration</h3>
                             <ul class="links-list">
-                                <li><a href="advertising-with-us">Advertising With Us</a></li>
-                                <li><a href="team">Team</a></li>
-                                <li><a href="portfolio">Tearm & Condition</a></li>
-                                <li><a href="privacy-policy">Privacy Policy</a></li>
+                                <li><a href="/advertising-with-us">Advertising With Us</a></li>
+                                <li><a href="/about">Team</a></li>
+                                <li><a href="/portfolio">Tearm & Condition</a></li>
+                                <li><a href="/privacy-policy">Privacy Policy</a></li>
 
                             </ul>
                         </div>
@@ -64,7 +64,7 @@
             </div>
             <div class="pr-line"></div>
             <div class="footer-bottom-area">
-                <p>© Copyright 2024 | <a href="#" target="_blank">Educated</a> | All Rights Reserved is Web Solution
+                <p>© Copyright 2024 | <a href="/" target="_blank">Educated</a> | All Rights Reserved is Web Solution
                     Company </p>
             </div>
         </div>

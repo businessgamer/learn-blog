@@ -68,7 +68,7 @@ class IndexController extends Controller
     {
         $user = User::with('posts')->findOrFail($id);
 
-        return view('author')->with(['user' => $user]);
+        return view('author')->with(['author' => $user]);
     }
 
     public function courses()

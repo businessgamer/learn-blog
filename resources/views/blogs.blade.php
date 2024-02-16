@@ -27,7 +27,7 @@
                                     <a href="{{ route('blog.slug',$blog->slug) }}" class="d-block">
                                         <img src="{{ Voyager::image($blog->image) }}" alt="{{Voyager::image($blog->title)}}">
                                     </a>
-                                    @isset($blog->user)
+                                    @isset($blog->category)
                                         <div class="cr-tag">
                                             <a href="{{ route('blogs.category',$blog->category->slug) }}"><span>{{ $blog->category->name}}</span></a>
                                         </div>
