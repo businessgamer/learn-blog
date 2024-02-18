@@ -500,16 +500,10 @@
                             <img src="{{ config('app.url') }}/assets/img/all-img/team1.png" alt="image">
                         </div>
                         <div class="content">
-                            <h3>Erics Widget</h3>
-                            <p>UI/UX Designer</p>
+                            <h3>Umesh K Tivari</h3>
+                            <p>UI/Creative Writer & Film Director</p>
                         </div>
-                        <div class="scial-links">
-                            <ul>
-                                <li><a href="#" class="sg-1"><i class='bx bxl-facebook'></i></a></li>
-                                <li><a href="#" class="sg-2"><i class='bx bxl-twitter'></i></a></li>
-                                <li><a href="#" class="sg-3"><i class='bx bxl-linkedin'></i></a></li>
-                            </ul>
-                        </div>
+                      
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
@@ -521,13 +515,7 @@
                             <h3>Daniel Steven</h3>
                             <p>UI/UX Designer</p>
                         </div>
-                        <div class="scial-links">
-                            <ul>
-                                <li><a href="#" class="sg-1"><i class='bx bxl-facebook'></i></a></li>
-                                <li><a href="#" class="sg-2"><i class='bx bxl-twitter'></i></a></li>
-                                <li><a href="#" class="sg-3"><i class='bx bxl-linkedin'></i></a></li>
-                            </ul>
-                        </div>
+
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
@@ -539,13 +527,7 @@
                             <h3>Nelson Decosta</h3>
                             <p>UI/UX Designer</p>
                         </div>
-                        <div class="scial-links">
-                            <ul>
-                                <li><a href="#" class="sg-1"><i class='bx bxl-facebook'></i></a></li>
-                                <li><a href="#" class="sg-2"><i class='bx bxl-twitter'></i></a></li>
-                                <li><a href="#" class="sg-3"><i class='bx bxl-linkedin'></i></a></li>
-                            </ul>
-                        </div>
+
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
@@ -557,13 +539,7 @@
                             <h3>Selina Gomez</h3>
                             <p>UI/UX Designer</p>
                         </div>
-                        <div class="scial-links">
-                            <ul>
-                                <li><a href="#" class="sg-1"><i class='bx bxl-facebook'></i></a></li>
-                                <li><a href="#" class="sg-2"><i class='bx bxl-twitter'></i></a></li>
-                                <li><a href="#" class="sg-3"><i class='bx bxl-linkedin'></i></a></li>
-                            </ul>
-                        </div>
+
                     </div>
                 </div>
             </div>
