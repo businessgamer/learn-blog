@@ -536,8 +536,8 @@
                             <img src="{{ config('app.url') }}/assets/img/all-img/team4.png" alt="image">
                         </div>
                         <div class="content">
-                            <h3>Selina Gomez</h3>
-                            <p>UI/UX Designer</p>
+                            <h3>Jagdish SIngh Thakur</h3>
+                            <p>English Teacher</p>
                         </div>
 
                     </div>
