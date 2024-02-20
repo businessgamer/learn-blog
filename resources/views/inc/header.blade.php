@@ -5,10 +5,8 @@
             <div class="col-lg-6 col-md-6 col-sm-12">
                 <div class="top-nav-left">
                     <ul>
-                        <li>About Us</li>
-                        <li><a href="/about"></a></li>
-                        <li>Contact</li>
-                        <li><a href="/contact"></a></li>
+                        <li><a href="about">About Us>/a></li>
+                        <li><a href="contact">Contact</a></li>
                     </ul>
                 </div>
             </div>
