@@ -43,8 +43,7 @@
                     <div class="edu-about-content">
                         <p class="sub-title">About Educated</p>
                         <h2> The Place Where You Can <span class="shape02">Achieve</span></h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                            suffered.</p>
+                        <p>Educated offers a unique digital education platform where individuals can access a variety of online courses including marketing, technical skills, languages, and social subjects.</p>
                         <div class="about-list">
                             <div class="items">
                                 <div class="about-single-content">
