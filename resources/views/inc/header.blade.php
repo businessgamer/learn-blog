@@ -13,8 +13,8 @@
             <div class="col-lg-6 col-md-6 col-sm-12">
                 <div class="top-nav-right">
                     <ul>
-                        <li>Login</li>
-                        <li>Registration</li>
+                        <li><a href="login">Login</a></li>
+                        <li><a href="registration">Registration</a></li>
                     </ul>
                 </div>
             </div>
