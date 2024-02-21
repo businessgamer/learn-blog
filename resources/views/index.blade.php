@@ -333,7 +333,6 @@
                         <p class="sub-title">Testimonial</p>
                         <h2> What Says Our <span class="shape02">Students</span> About Us</h2>
                         <p>Like thousands of our students, you too can become an expert in your skills by studying online from Educated. And you can get the job of your dreams, because the more skills one has at this time, the more progress one is making. Know what our alumni say about this.</p>
-                        <a href="#" class="default-btn">View All Reviews</a>
                     </div>
                 </div>
             </div>
@@ -346,7 +345,7 @@
         <div class="container">
             <div class="edu-section-title">
                 <p class="sub-title">Team Member</p>
-                <h2>Our Expert <span class="shape02">Instructors</span></h2>
+                <h2>Our Expert <span class="shape02">Trainers</span></h2>
             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-3 col-md-6 col-sm-12">
