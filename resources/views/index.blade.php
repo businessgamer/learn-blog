@@ -419,9 +419,9 @@
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="single-courseBlock-box cblockBg02">
                         <div class="content">
-                            <p class="sub-title">Build Your Career</p>
-                            <h3>Get Free <span class="shape02">Courses</span></h3>
-                            <p>Learn at your own pace, move the between multiple courses.</p>
+                            <p class="sub-title">Build Your Skills</p>
+                            <h3>Become A <span class="shape02">Smart Student</span></h3>
+                            <p>Learn at your own pace, move between multiple courses.</p>
                             <a href="#" class="default-btn primery-black">Book A Seat</a>
                         </div>
                     </div>
