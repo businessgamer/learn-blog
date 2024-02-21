@@ -105,7 +105,7 @@
         <div class="container">
             <div class="edu-section-title">
                 <p class="sub-title">Core Features</p>
-                <h2>Why <span class="shape02">Choose</span> Edumim</h2>
+                <h2>Why <span class="shape02">Choose</span> Educated</h2>
             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-sm-6 col-md-6">
@@ -410,8 +410,8 @@
                     <div class="single-courseBlock-box cblockBg mb-30">
                         <div class="content">
                             <p class="sub-title">Build Your Career</p>
-                            <h3>Become an <span class="shape02">Instructor</span></h3>
-                            <p>Learn at your own pace, move the between multiple courses.</p>
+                            <h3>Become an <span class="shape02">Trainers</span></h3>
+                            <p>Learn at your own pace, move between multiple courses.</p>
                             <a href="#" class="default-btn">Book A Seat</a>
                         </div>
                     </div>
