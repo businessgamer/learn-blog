@@ -356,7 +356,7 @@
                         </div>
                         <div class="content">
                             <h3>Umesh K Tivari</h3>
-                            <p>UI/Creative Writer & Film Director</p>
+                            <p>Creative Writer & Film Director</p>
                         </div>
                       
                     </div>
