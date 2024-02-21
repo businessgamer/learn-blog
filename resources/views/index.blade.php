@@ -367,8 +367,8 @@
                             <img src="{{ config('app.url') }}/assets/img/all-img/team2.png" alt="image">
                         </div>
                         <div class="content">
-                            <h3>Daniel Steven</h3>
-                            <p>UI/UX Designer</p>
+                            <h3>Jitendra K Brajwasi</h3>
+                            <p>SEO Marketing Trainer</p>
                         </div>
 
                     </div>
@@ -391,7 +391,7 @@
                             <img src="{{ config('app.url') }}/assets/img/all-img/team4.png" alt="image">
                         </div>
                         <div class="content">
-                            <h3>Jagdish SIngh Thakur</h3>
+                            <h3>Jatin Thakur</h3>
                             <p>English Teacher</p>
                         </div>
 
