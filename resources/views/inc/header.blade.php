@@ -14,7 +14,7 @@
                 <div class="top-nav-right">
                     <ul>
                         <li><a href="login">Login</a></li>
-                        <li><a href="registration">Registration</a></li>
+                        <li><a href="enroll">ENROLL NOW</a></li>
                     </ul>
                 </div>
             </div>
