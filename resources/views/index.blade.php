@@ -114,7 +114,7 @@
                             <i class='bx bx-layer'></i>
                         </div>
                         <h3>Learn More Anywhere</h3>
-                        <p>Learn from anywhere in world on desktop, mobile or tablet with an Internet connection.</p>
+                        <p>Wherever you feel like learning something new, you can increase your skills and knowledge with the educated platform.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 col-md-6">
