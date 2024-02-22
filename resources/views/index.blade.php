@@ -7,7 +7,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="edu-banner-content">
                         <h1>Online <span class="shape01">Education</span> For The Future</h1>
-                        <p>It is long established fact that reader distracted by the readable content.</p>
+                        <p>Now Fulfill Your Dreams With The Power of Online Education.</p>
 
                         <div class="subscribe-inner-area">
                             <form class="newsletter-form" data-toggle="validator">
