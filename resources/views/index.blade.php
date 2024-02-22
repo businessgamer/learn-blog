@@ -445,15 +445,13 @@
                                 <button class="accordion-button faq-button collapsed" type="button"
                                         data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false"
                                         aria-controls="flush-collapseOne">
-                                    What does it take excellent author?
+                                    Is the Educated platform completely free to use?
                                 </button>
                             </h2>
                             <div id="flush-collapseOne" class="accordion-collapse collapse faq-collapse"
                                  aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                                 <div class="faq-item-body">
-                                    <p>Learn at your own pace, move between multiple courses, or switch to a different
-                                        course. Earn a certificate for every learning program that you complete at no
-                                        additional cost.</p>
+                                    <p>Yes, the Educated platform is free to use. There are no hidden fees or charges to access our courses.</p>
                                 </div>
                             </div>
                         </div>
@@ -462,15 +460,13 @@
                                 <button class="accordion-button faq-button collapsed" type="button"
                                         data-bs-toggle="collapse" data-bs-target="#flush-collapseTow" aria-expanded="false"
                                         aria-controls="flush-collapseTow">
-                                    Who will view my content?
+                                    What types of courses are available on the Educated platform?
                                 </button>
                             </h2>
                             <div id="flush-collapseTow" class="accordion-collapse collapse faq-collapse"
                                  aria-labelledby="flush-headingTow" data-bs-parent="#accordionFlushExample">
                                 <div class="faq-item-body">
-                                    <p>Learn at your own pace, move between multiple courses, or switch to a different
-                                        course. Earn a certificate for every learning program that you complete at no
-                                        additional cost.</p>
+                                    <p>Educated platform offers a wide range of courses in a variety of subjects, including but not limited to business, technology, languages, arts, and sciences.</p>
                                 </div>
                             </div>
                         </div>
