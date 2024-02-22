@@ -123,7 +123,7 @@
                             <i class='bx bx-chalkboard'></i>
                         </div>
                         <h3>Expert Instructor</h3>
-                        <p></p>
+                        <p>Our first priority is to make you an expert in your skills. Therefore all our teachers are experts in their field. When you study from experts then you will become an expert.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 col-md-6">
