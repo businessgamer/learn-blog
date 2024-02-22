@@ -147,9 +147,8 @@
                 <div class="col-lg-5 col-md-12 col-sm-12">
                     <div class="edu-platfrom-content">
                         <p class="sub-title">Best Online Learning Platform</p>
-                        <h2> One Platfrom & Many <span class="shape02">Courses</span> For You </h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                            suffered. </p>
+                        <h2> One Platform & Many <span class="shape02">Courses</span> For You </h2>
+                        <p>Now you can further develop your knowledge and skills by taking a variety of online certificate courses from a single education platform. </p>
                         <div class="platfrom-list">
                             <div class="items">
                                 <div class="edu-platfrom-img">
