@@ -11,9 +11,9 @@
                             <p>Educated is a digital education platform, through which one can do online marketing
                                 courses, technical courses, language courses, and social-related.</p>
                             <ul class="social-links">
-                                <li><a href="#" target="_blank"><i class='bx bxl-facebook'></i></a></li>
+                                <li><a href="https://www.facebook.com/educated01" target="_blank"><i class='bx bxl-facebook'></i></a></li>
                                 <li><a href="#" target="_blank"><i class='bx bxl-twitter'></i></a></li>
-                                <li><a href="#" target="_blank"><i class='bx bxl-linkedin'></i></a></li>
+                                <li><a href="https://www.linkedin.com/showcase/educated01/" target="_blank"><i class='bx bxl-linkedin'></i></a></li>
                                 <li><a href="#" target="_blank"><i class='bx bxl-instagram'></i></a></li>
                             </ul>
                         </div>
