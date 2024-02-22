@@ -123,7 +123,7 @@
                             <i class='bx bx-chalkboard'></i>
                         </div>
                         <h3>Expert Instructor</h3>
-                        <p>Our expert teachers are always ready to help you. If any question comes to your mind while reading, you can telegram us. Our expert teachers will answer your question within 5 hours.</p>
+                        <p></p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 col-md-6">
@@ -132,7 +132,7 @@
                             <i class='bx bx-support'></i>
                         </div>
                         <h3>24/7 Strong Support</h3>
-                        <p>Learn from anywhere in world on desktop, mobile or tablet with an Internet connection.</p>
+                        <p>Our expert teachers are always ready to help you. If any question comes to your mind while reading, you can telegram us. Our expert teachers will answer your questions within 24 hours.</p>
                     </div>
                 </div>
             </div>
