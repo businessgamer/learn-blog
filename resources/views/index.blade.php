@@ -475,15 +475,13 @@
                                 <button class="accordion-button faq-button collapsed" type="button"
                                         data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false"
                                         aria-controls="flush-collapseThree">
-                                    What does it take become an author?
+                                    Are the educated platform courses recognized?
                                 </button>
                             </h2>
                             <div id="flush-collapseThree" class="accordion-collapse collapse faq-collapse"
                                  aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                                 <div class="faq-item-body">
-                                    <p>Learn at your own pace, move between multiple courses, or switch to a different
-                                        course. Earn a certificate for every learning program that you complete at no
-                                        additional cost.</p>
+                                    <p>While our courses are designed to provide valuable learning experiences, they may not always be accredited by formal educational institutions. However, they are created and curated by industry experts and professionals.</p>
                                 </div>
                             </div>
                         </div>
@@ -492,15 +490,27 @@
                                 <button class="accordion-button faq-button collapsed" type="button"
                                         data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false"
                                         aria-controls="flush-collapseFour">
-                                    How to Change my Password easily?
+                                    Can I earn a certificate or diploma from education platform courses?
                                 </button>
                             </h2>
                             <div id="flush-collapseFour" class="accordion-collapse collapse faq-collapse"
                                  aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
                                 <div class="faq-item-body">
-                                    <p>Learn at your own pace, move between multiple courses, or switch to a different
-                                        course. Earn a certificate for every learning program that you complete at no
-                                        additional cost.</p>
+                                    <p>Yes, upon successful completion of some courses, you may be eligible to receive a certificate of completion or other recognition to demonstrate your new skills and knowledge.</p>
+                                </div>
+                            </div>
+                            <div class="accordion-item faq-item">
+                            <h2 class="faq-header" id="flush-headingFour">
+                                <button class="accordion-button faq-button collapsed" type="button"
+                                        data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false"
+                                        aria-controls="flush-collapseFour">
+                                    How do I get started with the Educated platform?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseFour" class="accordion-collapse collapse faq-collapse"
+                                 aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
+                                <div class="faq-item-body">
+                                    <p>Getting started with the Educated platform is easy! Simply visit our website, sign up for a free account, and start exploring our catalog of courses. You can enroll in any course of your interest and start learning immediately.</p>
                                 </div>
                             </div>
                         </div>
