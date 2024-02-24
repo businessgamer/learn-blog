@@ -29,7 +29,7 @@
                             <h2>Opening Up the World of Technical SEO: Free</h2>
 
                             <div class="user-details">
-                                <img src="assets/img/all-img/author-1.png" alt="image">
+                                <img src="assets/img/all-img/jkb.jpg" alt="Indian seo expert">
                                 <p><span>Trainer :</span> <a href="#">Jitendra K Brajwasi</a></p>
                                 <p class="course-date"><span>Last Update:</span> <a href="#">10 February,
                                         2023</a></p>
