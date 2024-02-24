@@ -362,7 +362,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="single-team-box">
                         <div class="image">
-                            <img src="{{ config('app.url') }}/assets/img/all-img/team2.png" alt="image">
+                            <img src="{{ config('app.url') }}/assets/img/all-img/jkb.png" alt="image">
                         </div>
                         <div class="content">
                             <h3>Jitendra K Brajwasi</h3>
