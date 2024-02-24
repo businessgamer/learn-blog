@@ -411,7 +411,7 @@ Navbar Area CSS
 }
 
 .edumim-nav .navbar .navbar-nav .nav-item .dropdown-menu {
-  left: 170%;
+  left: 51%;
   top: 60px;
   opacity: 0;
   z-index: 99;
