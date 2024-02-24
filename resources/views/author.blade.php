@@ -22,7 +22,7 @@
                 <div class="col-lg-4">
                     <div class="instructor-sidebar-sticky">
                         <div class="image">
-                            <img src="{{ config('app.url') }}/assets/img/all-img/single-ins.png" alt="image">
+                            <img src="{{ Voyager::image($author->avatar) }}" alt="profile-avatar">
                         </div>
                         <div class="content">
                             <div class="instructor-content">
@@ -32,16 +32,16 @@
                                 <h4>Follow Me On:</h4>
                                 <ul>
                                     <li><a href="{{ $author->fb_link }}" target="_blank"><img
-                                                src="{{ config('app.url') }}/assets/img/icon/fb.svg" alt="icon"></a>
+                                                    src="{{ config('app.url') }}/assets/img/icon/fb.svg" alt="icon"></a>
                                     </li>
                                     <li><a href="{{ $author->in_link }}" target="_blank"><img
-                                                src="{{ config('app.url') }}/assets/img/icon/ins.svg" alt="icon"></a>
+                                                    src="{{ config('app.url') }}/assets/img/icon/ins.svg" alt="icon"></a>
                                     </li>
                                     <li><a href="{{ $author->tw_link }}" target="_blank"><img
-                                                src="{{ config('app.url') }}/assets/img/icon/tw.svg" alt="icon"></a>
+                                                    src="{{ config('app.url') }}/assets/img/icon/tw.svg" alt="icon"></a>
                                     </li>
                                     <li><a href="{{ $author->pn_link }}" target="_blank"><img
-                                                src="{{ config('app.url') }}/assets/img/icon/pn.svg" alt="icon"></a>
+                                                    src="{{ config('app.url') }}/assets/img/icon/pn.svg" alt="icon"></a>
                                     </li>
                                 </ul>
                             </div>
@@ -63,13 +63,13 @@
                                                 <div class="image">
                                                     <a href="{{ route('blog.slug', $blog->slug) }}" class="d-block">
                                                         <img src="{{ Voyager::image($blog->image) }}"
-                                                            alt="{{ $blog->title }}">
+                                                             alt="{{ $blog->title }}">
                                                     </a>
                                                 </div>
                                                 <div class="content">
                                                     <h3>
                                                         <a
-                                                            href="{{ route('blog.slug', $blog->slug) }}">{{ $blog->title }}</a>
+                                                                href="{{ route('blog.slug', $blog->slug) }}">{{ $blog->title }}</a>
                                                     </h3>
                                                 </div>
                                             </div>
