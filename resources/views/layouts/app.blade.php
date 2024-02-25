@@ -30,7 +30,7 @@
     <meta name="description" content="Digital marketing promotes goods and services through digital channels. Learn the various types, roles, and pros and cons of digital marketing." />
     <meta name='robots' content='index, follow, max-image-preview:large, NOODP, NOYDIR, max-snippet:-1, max-video-preview:-1' />
     <link rel="canonical" href="https://www.techtarget.com/searchcustomerexperience/definition/digital-marketing" />
-    <meta name="author" content="Kristopher Jones" />
+    <meta name="author" content="{{ $author->name }}" />
     <link rel="dns-prefetch" href="//tpc.googlesyndication.com" />
     <link rel="dns-prefetch" href="//pagead2.googlesyndication.com" />
     <link rel="dns-prefetch" href="//www.googletagservices.com" />
