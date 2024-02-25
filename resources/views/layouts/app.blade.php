@@ -18,18 +18,15 @@
     <link rel="stylesheet" href="{{ config('app.url') }}/assets/css/responsive.css">
 
     <title>{{ $title ?? '' }} {{ setting('site.title') }}</title>
-    <link rel="icon" type="image/png" href="{{ config('app.url') }}/assets/img/all-img/favicon.png">
-
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="What Is Digital Marketing: The Ultimate Guide to Digital Advertising" />
+    <meta property="og:title" content="{{ $title ?? '' }} />
     <meta property="og:description" content="Digital Marketing is the group of strategies focused on attracting and converting potential customers online. Learn how in this guide!" />
     <meta property="og:url" content="https://rockcontent.com/blog/what-is-digital-marketing/" />
     <meta property="og:site_name" content="Home Title" />
-    <meta property="article:publisher" content="https://www.facebook.com/werockcontent" />
+    <meta property="article:publisher" content="https://www.facebook.com/educated01" />
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <title>What is digital marketing? | Definition by TechTarget</title>
     <meta name="description" content="Digital marketing promotes goods and services through digital channels. Learn the various types, roles, and pros and cons of digital marketing." />
     <meta name='robots' content='index, follow, max-image-preview:large, NOODP, NOYDIR, max-snippet:-1, max-video-preview:-1' />
     <link rel="canonical" href="https://www.techtarget.com/searchcustomerexperience/definition/digital-marketing" />
