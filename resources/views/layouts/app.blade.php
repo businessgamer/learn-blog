@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="{{ config('app.url') }}/assets/css/style.css">
     <link rel="stylesheet" href="{{ config('app.url') }}/assets/css/responsive.css">
 
-    <title>{{ $title ?? '' }} {{ setting('site.title') }}</title>
+    <title>{{ $title ?? '' }} </title>
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ $title ?? '' }} />
