@@ -23,7 +23,7 @@
     <meta property="og:title" content="{{ $title ?? '' }} />
     <meta property="og:description" content="Digital Marketing is the group of strategies focused on attracting and converting potential customers online. Learn how in this guide!" />
     <meta property="og:url" content="https://rockcontent.com/blog/what-is-digital-marketing/" />
-    <meta property="og:site_name" content="Home Title" />
+    <meta property="og:site_name" content="Educated - Learn Everything Is Here" />
     <meta property="article:publisher" content="https://www.facebook.com/educated01" />
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
