@@ -224,34 +224,7 @@
     </div>
     <!-- End EduMim platfrom Area -->
 
-    <!-- Start EduMim Courses Block Area -->
-    <div class="edu-courseBlock-area pt-70 pb-100">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="single-courseBlock-box cblockBg mb-30">
-                        <div class="content">
-                            <p class="sub-title">Build Your Career</p>
-                            <h3>Become an <span class="shape02">Instructor</span></h3>
-                            <p>Learn at your own pace, move the between multiple courses.</p>
-                            <a href="#" class="default-btn">Book A Seat</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <div class="single-courseBlock-box cblockBg02">
-                        <div class="content">
-                            <p class="sub-title">Build Your Career</p>
-                            <h3>Get Free <span class="shape02">Courses</span></h3>
-                            <p>Learn at your own pace, move the between multiple courses.</p>
-                            <a href="#" class="default-btn primery-black">Book A Seat</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End EduMim Courses Block Area  -->
+    
 
     <!-- Start EduMim Video and Brand Area -->
     <div class="edu-video-area">
