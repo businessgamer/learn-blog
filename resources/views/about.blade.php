@@ -63,34 +63,114 @@
     </div>
     <!-- End EduMim About Area -->
 
-     <!-- Start Educated Topics Area -->
+   <!-- Start EduMim Topics Area -->
     <div class="edu-topics-area pt-100">
         <div class="container">
             <div class="edu-section-title">
                 <p class="sub-title">Start Learning From Today</p>
                 <h2>Popular <span class="shape02">Topics</span> To Learn </h2>
             </div>
-            @if(isset($categories) && count($categories) > 0)
-                <div class="row justify-content-center">
-                    @foreach($categories as $category)
-                        <div class="col-lg-3 col-md-6 col-sm-12">
-                            <a href="{{ route('blogs.category', $category->slug) }}" class="topic-box">
-                                <div class="single-topic-box lg-01">
-                                    <div class="icon">
-                                        <img src="{{Voyager::image($category->icon)}}" alt="icon">
-                                    </div>
-                                    <div class="content">
-                                        <h3>{{$category->name}}</h3>
-                                    </div>
-                                </div>
-                            </a>
+            <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <a href="#" class="topic-box">
+                        <div class="single-topic-box lg-01">
+                            <div class="icon">
+                                <img src="{{ config('app.url') }}/assets/img/icon/t1.svg" alt="icon">
+                            </div>
+                            <div class="content">
+                                <h3>Digital Marketing Strategies</h3>
+                            </div>
                         </div>
-                    @endforeach
+                    </a>
                 </div>
-            @endif
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <a href="#" class="topic-box">
+                        <div class="single-topic-box lg-02">
+                            <div class="icon">
+                                <img src="{{ config('app.url') }}/assets/img/icon/t2.svg" alt="icon">
+                            </div>
+                            <div class="content">
+                                <h3>Medical Knowledge</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <a href="#" class="topic-box">
+                        <div class="single-topic-box lg-03">
+                            <div class="icon">
+                                <img src="{{ config('app.url') }}/assets/img/icon/t3.svg" alt="icon">
+                            </div>
+                            <div class="content">
+                                <h3>Social Knowledge</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <a href="#" class="topic-box">
+                        <div class="single-topic-box lg-02">
+                            <div class="icon">
+                                <img src="{{ config('app.url') }}/assets/img/icon/t4.svg" alt="icon">
+                            </div>
+                            <div class="content">
+                                <h3> Lyrics Writting Tips</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <a href="#" class="topic-box">
+                        <div class="single-topic-box lg-03">
+                            <div class="icon">
+                                <img src="{{ config('app.url') }}/assets/img/icon/t5.svg" alt="icon">
+                            </div>
+                            <div class="content">
+                                <h3>Google My Business Tips</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <a href="#" class="topic-box">
+                        <div class="single-topic-box lg-04">
+                            <div class="icon">
+                                <img src="{{ config('app.url') }}/assets/img/icon/t6.svg" alt="icon">
+                            </div>
+                            <div class="content">
+                                <h3>Finances Tips</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <a href="#" class="topic-box">
+                        <div class="single-topic-box lg-05">
+                            <div class="icon">
+                                <img src="{{ config('app.url') }}/assets/img/icon/t7.svg" alt="icon">
+                            </div>
+                            <div class="content">
+                                <h3>Global Science</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <a href="#" class="topic-box">
+                        <div class="single-topic-box lg-01">
+                            <div class="icon">
+                                <img src="{{ config('app.url') }}/assets/img/icon/t8.svg" alt="icon">
+                            </div>
+                            <div class="content">
+                                <h3>Game Design</h3>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
-    <!-- End Educated Topics Area -->
+    <!-- End EduMim Topics Area -->
 
     <!-- Start EduMim platfroom Area -->
     <div class="edu-platfrom-area ptb-100">
