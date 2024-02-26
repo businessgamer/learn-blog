@@ -72,7 +72,7 @@
             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <a href="#" class="topic-box">
+                    <a href="https://educated.co.in/digital-marketing-strategies" class="topic-box">
                         <div class="single-topic-box lg-01">
                             <div class="icon">
                                 <img src="{{ config('app.url') }}/assets/img/icon/t1.svg" alt="icon">
@@ -84,7 +84,7 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <a href="#" class="topic-box">
+                    <a href="https://educated.co.in/medical-knowledge" class="topic-box">
                         <div class="single-topic-box lg-02">
                             <div class="icon">
                                 <img src="{{ config('app.url') }}/assets/img/icon/t2.svg" alt="icon">
@@ -96,7 +96,7 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <a href="#" class="topic-box">
+                    <a href="https://educated.co.in/social-knowledge" class="topic-box">
                         <div class="single-topic-box lg-03">
                             <div class="icon">
                                 <img src="{{ config('app.url') }}/assets/img/icon/t3.svg" alt="icon">
@@ -114,7 +114,7 @@
                                 <img src="{{ config('app.url') }}/assets/img/icon/t4.svg" alt="icon">
                             </div>
                             <div class="content">
-                                <h3> Lyrics Writting Tips</h3>
+                                <h3> Lyrics Writing Tips</h3>
                             </div>
                         </div>
                     </a>
@@ -144,7 +144,7 @@
                     </a>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <a href="#" class="topic-box">
+                    <a href="https://educated.co.in/global-science" class="topic-box">
                         <div class="single-topic-box lg-05">
                             <div class="icon">
                                 <img src="{{ config('app.url') }}/assets/img/icon/t7.svg" alt="icon">
