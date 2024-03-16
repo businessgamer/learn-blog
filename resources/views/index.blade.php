@@ -77,7 +77,30 @@
         </div>
     </div>
     <!-- End Educated About Area -->
-
+ <!-- Start Educated Subscribe Area -->
+    <div class="subscribe-area pt-100 pb-70 ">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-4 col-md-12 col-sm-12">
+                    <div class="subcribe-content">
+                        <img src="{{ config('app.url') }}/assets/img/svg/big-mail.svg" alt="mail">
+                        <h2>Subscribe to My Newsletter</h2>
+                    </div>
+                </div>
+                <div class="col-lg-8 col-md-12 col-sm-12">
+                    <div class="subscribe-from">
+                        <form class="newsletter-form" data-toggle="validator">
+                            <input type="text" class="input-newsletter" placeholder="Enter your email address"
+                                   name="EMAIL" required autocomplete="off">
+                            <button type="submit" class="default-btn">Get Started Now</button>
+                            <div id="validator-newsletter3" class="form-result"></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Educated Subscribe Area -->
     <!-- Start Educated Brands-area Area -->
     <div class="brands-area-area pb-100">
         <div class="container">
@@ -186,32 +209,7 @@
             </div>
         </div>
     </div>
-    <!-- End Educated platfrom Area -->
-
-    <!-- Start Educated Subscribe Area -->
-    <div class="subscribe-area pt-100 pb-70 ">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-4 col-md-12 col-sm-12">
-                    <div class="subcribe-content">
-                        <img src="{{ config('app.url') }}/assets/img/svg/big-mail.svg" alt="mail">
-                        <h2>Subscribe to My Newsletter</h2>
-                    </div>
-                </div>
-                <div class="col-lg-8 col-md-12 col-sm-12">
-                    <div class="subscribe-from">
-                        <form class="newsletter-form" data-toggle="validator">
-                            <input type="text" class="input-newsletter" placeholder="Enter your email address"
-                                   name="EMAIL" required autocomplete="off">
-                            <button type="submit" class="default-btn">Get Started Now</button>
-                            <div id="validator-newsletter3" class="form-result"></div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Educated Subscribe Area -->
+    <!-- End Educated platform Area -->
 
     <!-- Start Educated Topics Area -->
     <div class="edu-topics-area pt-100">
