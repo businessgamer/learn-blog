@@ -20,7 +20,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-12">
+                <div class="col-lg-4 col-md-12">
                     <div class="edu-banner-image">
                         <img src="{{ config('app.url') }}/assets/img/banner/man1.png" alt="banner-img">
                     </div>
