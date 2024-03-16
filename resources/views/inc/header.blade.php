@@ -37,7 +37,7 @@
     <div class="edumim-nav">
         <div class="container">
             <nav class="navbar navbar-expand-md navbar-light">
-                <a class="navbar-brand" href="/"><img src="{{ config('app.url') }}/assets/img/logo/educated-h.png"
+                <a class="navbar-brand" href="/"><img src="{{ config('app.url') }}/assets/img/logo/educated-h1.png"
                         alt="free online courses"></a>
                 <div class="collapse navbar-collapse mean-menu">
                     <ul class="navbar-nav">
