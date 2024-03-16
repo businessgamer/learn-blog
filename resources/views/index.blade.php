@@ -84,7 +84,7 @@
                 <div class="col-lg-4 col-md-12 col-sm-12">
                     <div class="subcribe-content">
                         <img src="{{ config('app.url') }}/assets/img/svg/big-mail.svg" alt="mail">
-                        <h3>Find Online Courses With Certificates</h3>
+                        <h3>Find Online Courses</h3>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12">
