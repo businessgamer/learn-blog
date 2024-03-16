@@ -100,6 +100,7 @@
             </div>
         </div>
     </div>
+<br>
     <!-- End Educated Subscribe Area -->
     <!-- Start Educated Brands-area Area -->
     <div class="brands-area-area pb-100">
