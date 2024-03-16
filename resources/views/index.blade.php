@@ -83,7 +83,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-4 col-md-12 col-sm-12">
                     <div class="subcribe-content">
-                        <img src="{{ config('app.url') }}/assets/img/svg/big-mail.svg" alt="google-search-engine">
+                        <img src="{{ config('app.url') }}/assets/img/svg/google-search.jpg" alt="google-search-engine">
                         <h3>Find Online Courses</h3>
                     </div>
                 </div>
