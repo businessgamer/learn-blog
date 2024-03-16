@@ -29,7 +29,7 @@
         <div class="container">
             <div class="edumim-responsive-menu">
                 <div class="logo">
-                    <a href="/"><img src="{{ config('app.url') }}/assets/img/logo/logo.svg" alt="logo"></a>
+                    <a href="/"><img src="{{ config('app.url') }}/assets/img/logo/educated-h.png" alt="best online education platform"></a>
                 </div>
             </div>
         </div>
@@ -37,8 +37,8 @@
     <div class="edumim-nav">
         <div class="container">
             <nav class="navbar navbar-expand-md navbar-light">
-                <a class="navbar-brand" href="/"><img src="{{ config('app.url') }}/assets/img/logo/logo.svg"
-                        alt="logo"></a>
+                <a class="navbar-brand" href="/"><img src="{{ config('app.url') }}/assets/img/logo/educated-h.png"
+                        alt="free online courses"></a>
                 <div class="collapse navbar-collapse mean-menu">
                     <ul class="navbar-nav">
                         <li class="nav-item"><a href="/" class="nav-link dropdown-toggle">SEO Courses</a>
