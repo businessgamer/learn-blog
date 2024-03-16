@@ -84,13 +84,12 @@
                 <div class="col-lg-4 col-md-12 col-sm-12">
                     <div class="subcribe-content">
                         <img src="{{ config('app.url') }}/assets/img/svg/big-mail.svg" alt="mail">
-                        <h2>Subscribe to My Newsletter</h2>
                     </div>
                 </div>
                 <div class="col-lg-8 col-md-12 col-sm-12">
                     <div class="subscribe-from">
                         <form class="newsletter-form" data-toggle="validator">
-                            <input type="text" class="input-newsletter" placeholder="Enter your email address"
+                            <input type="text" class="input-newsletter" placeholder="Search Your Favurit Skills Course"
                                    name="EMAIL" required autocomplete="off">
                             <button type="submit" class="default-btn">Get Started Now</button>
                             <div id="validator-newsletter3" class="form-result"></div>
