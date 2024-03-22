@@ -13,8 +13,11 @@ class IndexController extends Controller
     public function index()
     {
         $categories = Category::orderBy('order')->get();
-
-        return view('index')->with(['categories' => $categories]);
+        $blogs = Post::wherefeatured(true)->get();
+        return view('index')->with([
+            'categories' => $categories,
+            'blogs' => $blogs,
+        ]);
     }
 
     public function blogs()
