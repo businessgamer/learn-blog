@@ -19,7 +19,7 @@ class IndexController extends Controller
 
     public function blogs()
     {
-        $blogs = Post::with('category', 'user')->where('type','BLOG')->whereStatus('PUBLISHED')->latest()->paginate(25);
+        $blogs = Post::with('category', 'user')->where('type', 'BLOG')->whereStatus('PUBLISHED')->latest()->paginate(25);
 
         return view('blogs')->with([
             'title' => 'Blogs',
@@ -64,7 +64,7 @@ class IndexController extends Controller
         ]);
     }
 
-    public function authorPage($id)
+    public function authorPage($name, $id)
     {
         $user = User::with('posts')->findOrFail($id);
 
@@ -73,7 +73,7 @@ class IndexController extends Controller
 
     public function courses()
     {
-        $blogs = Post::with('category', 'user')->where('type','COURSE')->whereStatus('PUBLISHED')->latest()->paginate(25);
+        $blogs = Post::with('category', 'user')->where('type', 'COURSE')->whereStatus('PUBLISHED')->latest()->paginate(25);
 
         return view('blogs')->with([
             'title' => 'Courses',

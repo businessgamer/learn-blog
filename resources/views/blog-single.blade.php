@@ -34,8 +34,9 @@
                             <div class="entry-meta">
                                 <ul>
                                     @isset($blog->user)
-                                        <li><i class='bx bx-user'></i> <a
-                                                    href="{{ route('author', $blog->author_id) }}">{{ $blog->user->name }}</a></li>
+                                        <li><i class='bx bx-user'></i>
+
+                                            <a href="{{ route('author', ['name' => $blog->user->name, 'id' => $blog->author_id]) }}">{{ $blog->user->name }}</a></li>
                                     @endif
                                     <li><i class='bx bx-calendar'></i>{{ $blog->created_at->format('D M, Y') }}</li>
                                 </ul>

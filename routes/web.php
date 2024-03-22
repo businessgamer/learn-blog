@@ -22,7 +22,7 @@ Route::get('/', [IndexController::class, 'index'])->name('index');
 Route::get('/blogs', [IndexController::class, 'blogs'])->name('blogs');
 Route::get('/blog/{slug}', [IndexController::class, 'blogDetail'])->name('blog.slug');
 Route::get('/tag/{tag}', [IndexController::class, 'tagBlogs'])->name('blog.tag');
-Route::get('/author/{id}', [IndexController::class, 'authorPage'])->name('author');
+Route::get('/author/{name}/{id}', [IndexController::class, 'authorPage'])->name('author');
 
 Route::get('/courses', [IndexController::class, 'courses']);
 // Route::get('/course/{slug}', function () {
