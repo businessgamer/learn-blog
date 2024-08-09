@@ -109,8 +109,8 @@
         <div class="brands-title">
             <h3>Trusted By 1k+ Company Arround The World!</h3>
         </div>
-         <marquee direction="left">
         <ul class="brands-list">
+                     <marquee direction="left">
             <li><a href="#"><img src="{{ config('app.url') }}/assets/img/all-img/brands/1.svg" alt="brands"></a>
             </li>
             <li><a href="#"><img src="{{ config('app.url') }}/assets/img/all-img/brands/2.svg" alt="brands"></a>
@@ -121,8 +121,9 @@
             </li>
             <li><a href="#"><img src="{{ config('app.url') }}/assets/img/all-img/brands/5.svg" alt="brands"></a>
             </li>
+                                  </marquee>
+
         </ul>
-         </marquee>
     </div>
 </div>
 <!-- End Educated Brands-area -->
