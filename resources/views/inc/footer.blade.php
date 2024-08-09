@@ -64,8 +64,7 @@
             </div>
             <div class="pr-line"></div>
             <div class="footer-bottom-area">
-                <p style="  color: #ad8400;">© Copyright 2024 | <a href="https://www.educated.co.in/" target="_blank">Educated</a> | All Rights Reserved is Web Solution
-                    Company </p>
+                <p style="  color: #ad8400;">© Copyright 2024 - 2050 <a href="https://www.educated.co.in/" target="_blank">Educated</a> | All Rights Reserved is <a href="https://www.businessgamer.in/" target="_blank">Business Gamer </p>
             </div>
         </div>
     </footer>
