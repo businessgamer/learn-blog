@@ -122,7 +122,7 @@
             <li><a href="#"><img src="{{ config('app.url') }}/assets/img/all-img/brands/5.svg" alt="brands"></a>
             </li>
         </ul>
-             <marquee>
+         </marquee>
     </div>
 </div>
 <!-- End Educated Brands-area -->
