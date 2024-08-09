@@ -64,7 +64,7 @@
             </div>
             <div class="pr-line"></div>
             <div class="footer-bottom-area">
-                <p>© Copyright 2024 | <a href="/" target="_blank">Educated</a> | All Rights Reserved is Web Solution
+                <p style="  color: #ad8400;">© Copyright 2024 | <a href="https://www.educated.co.in/" target="_blank">Educated</a> | All Rights Reserved is Web Solution
                     Company </p>
             </div>
         </div>
