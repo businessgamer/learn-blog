@@ -4,7 +4,7 @@
     <section class="page-title-area item-bg1">
         <div class="container">
             <div class="page-title-content">
-                <h2>Technical SEO Course</h2>
+                <h1>Technical SEO Course</h1>
                 <ul class="breadcrumb">
                     <li class="breadcrumb-item"><a href="#">Pages</a></li>
                     <li class="breadcrumb-item"></li>
