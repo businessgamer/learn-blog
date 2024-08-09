@@ -8,7 +8,7 @@
                 <ul class="breadcrumb">
                     <li class="breadcrumb-item"><a href="#">Pages</a></li>
                     <li class="breadcrumb-item"></li>
-                    <li class="primery-link">Courses</li>
+                    <li class="primery-link">Policy</li>
                 </ul>
             </div>
         </div>
@@ -41,5 +41,36 @@
     <li>To Ensure Security: To detect, prevent, and address technical issues and to protect the security of our Site.
 </li>
 </ul>
-<h3>4. Sharing Your Information</h3>
+<h3>Sharing Your Information</h3>
+<p>We may share your information in the following circumstances:</p>
+<ul>
+<li>With Service Providers: We may share your information with third-party service providers who assist us in operating our Site and providing our services (e.g., email delivery, data analytics).
+</li>
+    <li>For Legal Compliance: We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., to comply with a subpoena).
+</li>
+    <li>Business Transfers: In the event of a merger, acquisition, or asset sale, your information may be transferred as part of the transaction.
+</li>
+</ul>
+<h3>Security of Your Information</h3>
+    <p>We implement reasonable security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the Internet or electronic storage is completely secure, and we cannot guarantee absolute security.
+</p>
+<h3>Your Rights and Choices</h3>
+<ul>
+    <li>Access and Update: You can access and update your personal information by logging into your account or contacting us directly.
+</li>
+    <li>Opt-Out: You can opt out of receiving promotional communications by following the unsubscribe instructions in those communications.
+</li>
+    <li>Cookies: You can manage your cookie preferences through your browser settings. Please note that disabling cookies may affect the functionality of our Site.
+</li>
+</ul>
+<h3>Children’s Privacy</h3>
+<p>Our Site is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
+</p>
+<h3>8. Changes to This Privacy Policy</h3>
+<p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our Site and updating the "Effective Date" at the top. Your continued use of the Site after any changes constitutes your acceptance of the new Privacy Policy.
+</p>
+<h3>Contact Us</h3>
+<p>If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+<br>Email: [your-email@example.com]
+</p>
   @endsection
