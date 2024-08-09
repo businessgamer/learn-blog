@@ -31,8 +31,7 @@
                             <div class="user-details">
                                 <img src="assets/img/all-img/jkb.jpg" alt="Indian seo expert">
                                 <p><span>Trainer :</span> <a href="#">Jitendra K Brajwasi</a></p>
-                                <p class="course-date"><span>Last Update:</span> <a href="#">10 February,
-                                        2023</a></p>
+                               
                             </div>
                         </div>
                         <div class="course-tabs">
@@ -119,17 +118,7 @@
                                     aria-labelledby="nav-carriculum-tab">
                                     <div class="carriculum-content cmb-30">
                                         <h3 class="course-desc-heading">Course Description</h3>
-                                        <ul>
-                                            <li>
-                                                <p>Level Beginner</p>
-                                            </li>
-                                            <li>
-                                                <p>12 Lectures</p>
-                                            </li>
-                                            <li>
-                                                <p>Total: 5 Hours 56 Minutes 24 Seconds</p>
-                                            </li>
-                                        </ul>
+                                        
                                     </div>
                                     <div class="accordion" id="accordionFlushExample">
                                         <div class="accordion-item lesson-item">
