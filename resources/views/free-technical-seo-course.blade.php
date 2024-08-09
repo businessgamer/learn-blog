@@ -120,7 +120,7 @@
                                         <h3 class="course-desc-heading">Course Description</h3>
                                         
                                     
-                                      
+                                        <div class="accordion-item lesson-item">
                                             <div class="overview-otp cmb-30">
                                                 <h3 class="course-desc-heading">Module 1: Introduction to Technical SEO
                                                 </h3>
