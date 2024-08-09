@@ -464,7 +464,6 @@
                                 </a>
                             </div>
                             <div class="sidebar-content">
-                                <h3>Free</h3>
                                 <a href="#" class="default-btn course-btn">Enroll Now</a>
                                 <ul class="courses-details">
                                     <li>
@@ -477,11 +476,7 @@
                                             Lectures</div>
                                         <p>23</p>
                                     </li>
-                                    <li>
-                                        <div class="icon"><img src="assets/img/icon/clock.svg" alt="icon">
-                                            Duration</div>
-                                        <p>2Hr 36Minutes</p>
-                                    </li>
+
                                     <li>
                                         <div class="icon"><img src="assets/img/icon/star.svg" alt="icon">
                                             Enrolled</div>
