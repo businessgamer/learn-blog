@@ -120,7 +120,82 @@
                                         <h3 class="course-desc-heading">Course Description</h3>
                                         
                                     </div>
-                                
+                                 <--   <div class="accordion" id="accordionFlushExample">
+                                        <div class="accordion-item lesson-item">
+                                            <h2 class="lesson-header" id="flush-headingOne">
+                                                <button class="accordion-button lession-button collapsed"
+                                                    type="button" data-bs-toggle="collapse"
+                                                    data-bs-target="#flush-collapseOne" aria-expanded="false"
+                                                    aria-controls="flush-collapseOne">
+                                                    Introduction <span>3 Lectures, 34:51 min</span>
+                                                </button>
+                                            </h2>
+
+                                            <div id="flush-collapseOne"
+                                                class="accordion-collapse collapse lesson-collapse"
+                                                aria-labelledby="flush-headingOne"
+                                                data-bs-parent="#accordionFlushExample">
+                                                <div class="lesson-item-body">
+                                                    <h3>Intermediate Level</h3>
+                                                    <p>This tutorial will help you learn quickly and thoroughly. Lorem
+                                                        ipsum is dummy text used in laying out print, graphic or web
+                                                        designs</p>
+                                                    <h4>2 Videos, 1 Audio, 1 Notebook</h4>
+                                                    <ul class="lesson-item-list">
+                                                        <a href="#">
+                                                            <li>
+                                                                <div class="lession-item-title">
+                                                                    <img src="assets/img/icon/camera.svg"
+                                                                        alt="icon">
+                                                                    <p>Video: Getting Started and Introductions</p>
+                                                                </div>
+                                                                <div class="lession-item-status">
+                                                                    <span>Preview</span>
+                                                                    <img src="assets/img/icon/lock.svg"
+                                                                        alt="icon">
+                                                                </div>
+                                                            </li>
+                                                        </a>
+                                                        <a href="#">
+                                                            <li>
+                                                                <div class="lession-item-title">
+                                                                    <img src="assets/img/icon/headphone.svg"
+                                                                        alt="icon">
+                                                                    <p>Audio: Connectig Throgh Technology</p>
+                                                                </div>
+                                                                <div class="lession-item-status">
+                                                                    <span>Preview</span>
+                                                                    <img src="assets/img/icon/lock.svg"
+                                                                        alt="icon">
+                                                                </div>
+                                                            </li>
+                                                        </a>
+                                                        <a href="#">
+                                                            <li>
+                                                                <div class="lession-item-title">
+                                                                    <img src="assets/img/icon/file.svg"
+                                                                        alt="icon">
+                                                                    <p>Video: Connectig Throgh Technology</p>
+                                                                </div>
+                                                                <div class="lession-item-status">
+                                                                    <img src="assets/img/icon/lock.svg"
+                                                                        alt="icon">
+                                                                </div>
+                                                            </li>
+                                                        </a>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="accordion-item lesson-item">
+                                            <h2 class="lesson-header" id="flush-headingTow">
+                                                <button class="accordion-button lession-button collapsed"
+                                                    type="button" data-bs-toggle="collapse"
+                                                    data-bs-target="#flush-collapseTow" aria-expanded="false"
+                                                    aria-controls="flush-collapseTow">
+                                                    Getting Started <span>3 Lectures, 34:51 min</span>
+                                                </button>
+                                            </h2>-->
                                             <div class="overview-otp cmb-30">
                                                 <h3 class="course-desc-heading">Module 1: Introduction to Technical SEO
                                                 </h3>
