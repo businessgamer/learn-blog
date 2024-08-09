@@ -13,7 +13,7 @@
                             <ul class="social-links">
                                 <li><a href="https://www.facebook.com/educated01" target="_blank"><i class='bx bxl-facebook'></i></a></li>
                                 <li><a href="#" target="_blank"><i class='bx bxl-twitter'></i></a></li>
-                                <li><a href="https://www.linkedin.com/showcase/educated01/" target="_blank"><i class='bx bxl-linkedin'></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/educated-online-education/" target="_blank"><i class='bx bxl-linkedin'></i></a></li>
                                 <li><a href="https://www.instagram.com/educated_digital/" target="_blank"><i class='bx bxl-instagram'></i></a></li>
                             </ul>
                         </div>
