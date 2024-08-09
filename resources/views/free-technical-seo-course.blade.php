@@ -120,7 +120,7 @@
                                         <h3 class="course-desc-heading">Course Description</h3>
                                         
                                     </div>
-                                    <div class="accordion" id="accordionFlushExample">
+                                 <--   <div class="accordion" id="accordionFlushExample">
                                         <div class="accordion-item lesson-item">
                                             <h2 class="lesson-header" id="flush-headingOne">
                                                 <button class="accordion-button lession-button collapsed"
@@ -195,7 +195,7 @@
                                                     aria-controls="flush-collapseTow">
                                                     Getting Started <span>3 Lectures, 34:51 min</span>
                                                 </button>
-                                            </h2>
+                                            </h2>-->
                                             <div class="overview-otp cmb-30">
                                                 <h3 class="course-desc-heading">Module 1: Introduction to Technical SEO
                                                 </h3>
