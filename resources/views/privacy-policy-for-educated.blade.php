@@ -37,8 +37,8 @@
 </li>
     <li><b>To Analyze Usage:</b> To understand how users interact with our Site and to improve its functionality and user experience.
 </li>
-    <li></b>To Process Transactions:</b> To handle and process transactions you initiate on our Site.</li>
-    <li></b>To Ensure Security:</b> To detect, prevent, and address technical issues and to protect the security of our Site.
+    <li><b>To Process Transactions:</b> To handle and process transactions you initiate on our Site.</li>
+    <li><b>To Ensure Security:</b> To detect, prevent, and address technical issues and to protect the security of our Site.
 </li>
 </ul>
 <h3>Sharing Your Information</h3>
