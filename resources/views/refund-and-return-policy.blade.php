@@ -4,7 +4,7 @@
     <section class="page-title-area item-bg1">
         <div class="container">
             <div class="page-title-content">
-                <h1>Privacy Policy</h1>
+                <h1>Refund and Return Policy</h1>
                 <ul class="breadcrumb">
                     <li class="breadcrumb-item"><a href="#">Pages</a></li>
                     <li class="breadcrumb-item"></li>
@@ -15,62 +15,44 @@
     </section>
     <!-- End EduMim Page Title Area -->
 <h2>Introduction</h2>
-<p>Welcome to www.educated.co.in/  Managed by Jitendra Kumar ("we," "our," or "us"). We are dedicated to empowering dreams and inspiring excellence through education. Your privacy is important to us, and this Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you visit our website, https://www.educated.co.in (the "Site"). By using our Site, you agree to the terms of this Privacy Policy.
+<p>Welcome to www.educated.co.in/ ("we," "our," or "us"). We are committed to providing exceptional educational resources and services to empower your dreams and inspire excellence. Please carefully review our Non-Refundable and Non-Returnable Policy, which applies to all purchases made on our website, https://www.educated.co.in (the "Site").
 </p>
-<h3>Information We Collect</h3>
-<p>We may collect and process the following types of information:</p>
-<ul>
-    <li><b>Personal Information:</b> Information you provide directly, such as your name, email address, phone number, and other contact details when you register for an account, subscribe to our newsletter, or contact us.
-</li>
-    <li><b>Usage Data:</b> Information about your interactions with our Site, including your IP address, browser type, pages visited, time spent on pages, and other diagnostic data.
-</li>
-    <li><b>Cookies and Tracking Technologies:</b> We use cookies and similar technologies to track user activity and enhance your experience. Cookies are small data files placed on your device.
-</li>
-</ul>
-<h3>How We Use Your Information?</h3>
-<p>We use the information collected for the following purposes:</p>
-<ul>
-    <li><b>To Provide and Maintain Our Services:</b> To operate, maintain, and improve our Site and services.</li>
-    <li><b>To Communicate with You:</b> To send you updates, newsletters, and marketing materials, and respond to your inquiries (you may opt-out at any time).
-</li>
-    <li><b>To Personalize Your Experience:</b> To tailor the content and features of our Site to your preferences and interests.
-</li>
-    <li><b>To Analyze Usage:</b> To understand how users interact with our Site and to improve its functionality and user experience.
-</li>
-    <li><b>To Process Transactions:</b> To handle and process transactions you initiate on our Site.</li>
-    <li><b>To Ensure Security:</b> To detect, prevent, and address technical issues and to protect the security of our Site.
-</li>
-</ul>
-<h3>Sharing Your Information</h3>
-<p>We may share your information in the following circumstances:</p>
-<ul>
-<li><b>With Service Providers:</b> We may share your information with third-party service providers who assist us in operating our Site and providing our services (e.g., email delivery, data analytics).
-</li>
-    <li><b>For Legal Compliance:</b> We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., to comply with a subpoena).
-</li>
-    <li><b>Business Transfers:</b> In the event of a merger, acquisition, or asset sale, your information may be transferred as part of the transaction.
-</li>
-</ul>
-<h3>Security of Your Information</h3>
-    <p>We implement reasonable security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the Internet or electronic storage is completely secure, and we cannot guarantee absolute security.
+<h3>General Policy</h3>
+<p>All purchases made through our Site are final and non-refundable. We do not accept returns or provide refunds for any products, services, or digital content purchased from us, except as described below.
 </p>
-<h3>Your Rights and Choices</h3>
+
+<h3>Non-Refundable Products and Services</h3>
+<p>The following items are non-refundable and non-returnable:</p>
 <ul>
-    <li><b>Access and Update:</b> You can access and update your personal information by logging into your account or contacting us directly.
-</li>
-    <li><b>Opt-Out:</b> You can opt out of receiving promotional communications by following the unsubscribe instructions in those communications.
-</li>
-    <li><b>Cookies:</b> You can manage your cookie preferences through your browser settings. Please note that disabling cookies may affect the functionality of our Site.
+    <li><b>Digital Products:</b> Includes e-books, online courses, downloadable materials, and any other digital content.</li>
+    <li><b>Services:</b> Includes any educational consultations, webinars, or personalized coaching sessions.</li>
+    <li><b>Subscriptions:</b> Includes membership or subscription-based services.
 </li>
 </ul>
-<h3>Children’s Privacy</h3>
-<p>Our Site is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
+<h3>4. Exceptions</h3>
+<ul>
+<li><b>Technical Issues:</b> If you experience technical issues accessing a digital product or service due to a fault on our end, please contact our support team. We will work to resolve the issue or provide a suitable alternative, but no refunds will be issued.</li>
+    <li><b>Errors in Purchase:</b> If you believe there was an error in your purchase (e.g., incorrect billing), please contact us within [X] days of the transaction. We will review the situation and, if deemed appropriate, offer a resolution.
+</li>
+</ul>
+<h3>5. Cancellation Policy</h3>
+<ul>
+    <li><b>Digital Products and Services:</b> Once purchased, digital products and services cannot be canceled or refunded. If you have any issues accessing the content, please contact our support team for assistance.
+</li>
+    <li><b>Subscriptions:</b> Subscription fees are charged in advance and are non-refundable. If you choose to cancel your subscription, you will continue to have access to the subscription benefits until the end of your billing cycle.
+</li>
+</ul>
+<h3>6. How to Contact Us</h3>
+<p>If you have any questions or concerns regarding our Non-Refundable and Non-Returnable Policy, or if you need assistance with a purchase issue, please contact us at:
+<br>Educated Education<br>
+Email: [your-email@example.com]
 </p>
-<h3>8. Changes to This Privacy Policy</h3>
+<h3>7. Changes to This Policy</h3>
+<p>We reserve the right to update this Non-Refundable and Non-Returnable Policy at any time. Any changes will be posted on this page with an updated "Effective Date." It is your responsibility to review this policy periodically for any updates.
+</p>
+<h3>8. Acceptance of Policy</h3>
 <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our Site and updating the "Effective Date" at the top. Your continued use of the Site after any changes constitutes your acceptance of the new Privacy Policy.
 </p>
 <h3>Contact Us</h3>
-<p>If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
-<br>Email: [your-email@example.com]
+<p>By making a purchase on our Site, you acknowledge that you have read, understood, and agreed to the terms of this Non-Refundable and Non-Returnable Policy.
 </p>
-  @endsection
