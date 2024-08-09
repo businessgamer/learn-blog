@@ -36,7 +36,6 @@
                             <h3>Infomration</h3>
                             <ul class="links-list">
                                 <li><a href="/refund-and-return-policy">Refund And Return Policy</a></li>
-                                <li><a href="/about">Team</a></li>
                                 <li><a href="/portfolio">Tearm & Condition</a></li>
                                 <li><a href="/privacy-policy">Privacy Policy</a></li>
 
