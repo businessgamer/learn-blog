@@ -20,35 +20,35 @@
 <h3>Information We Collect</h3>
 <p>We may collect and process the following types of information:</p>
 <ul>
-    <li>Personal Information: Information you provide directly, such as your name, email address, phone number, and other contact details when you register for an account, subscribe to our newsletter, or contact us.
+    <li><b>Personal Information:</b> Information you provide directly, such as your name, email address, phone number, and other contact details when you register for an account, subscribe to our newsletter, or contact us.
 </li>
-    <li>Usage Data: Information about your interactions with our Site, including your IP address, browser type, pages visited, time spent on pages, and other diagnostic data.
+    <li><b>Usage Data:</b> Information about your interactions with our Site, including your IP address, browser type, pages visited, time spent on pages, and other diagnostic data.
 </li>
-    <li>Cookies and Tracking Technologies: We use cookies and similar technologies to track user activity and enhance your experience. Cookies are small data files placed on your device.
+    <li><b>Cookies and Tracking Technologies:</b> We use cookies and similar technologies to track user activity and enhance your experience. Cookies are small data files placed on your device.
 </li>
 </ul>
 <h3>How We Use Your Information?</h3>
 <p>We use the information collected for the following purposes:</p>
 <ul>
-    <li>To Provide and Maintain Our Services: To operate, maintain, and improve our Site and services.</li>
-    <li>To Communicate with You: To send you updates, newsletters, and marketing materials, and respond to your inquiries (you may opt-out at any time).
+    <li><b>To Provide and Maintain Our Services:</b> To operate, maintain, and improve our Site and services.</li>
+    <li><b>To Communicate with You:</b> To send you updates, newsletters, and marketing materials, and respond to your inquiries (you may opt-out at any time).
 </li>
-    <li>To Personalize Your Experience: To tailor the content and features of our Site to your preferences and interests.
+    <li><b>To Personalize Your Experience:</b> To tailor the content and features of our Site to your preferences and interests.
 </li>
-    <li>To Analyze Usage: To understand how users interact with our Site and to improve its functionality and user experience.
+    <li><b>To Analyze Usage:</b> To understand how users interact with our Site and to improve its functionality and user experience.
 </li>
-    <li>To Process Transactions: To handle and process transactions you initiate on our Site.</li>
-    <li>To Ensure Security: To detect, prevent, and address technical issues and to protect the security of our Site.
+    <li></b>To Process Transactions:</b> To handle and process transactions you initiate on our Site.</li>
+    <li></b>To Ensure Security:</b> To detect, prevent, and address technical issues and to protect the security of our Site.
 </li>
 </ul>
 <h3>Sharing Your Information</h3>
 <p>We may share your information in the following circumstances:</p>
 <ul>
-<li>With Service Providers: We may share your information with third-party service providers who assist us in operating our Site and providing our services (e.g., email delivery, data analytics).
+<li><b>With Service Providers:</b> We may share your information with third-party service providers who assist us in operating our Site and providing our services (e.g., email delivery, data analytics).
 </li>
-    <li>For Legal Compliance: We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., to comply with a subpoena).
+    <li><b>For Legal Compliance:</b> We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., to comply with a subpoena).
 </li>
-    <li>Business Transfers: In the event of a merger, acquisition, or asset sale, your information may be transferred as part of the transaction.
+    <li><b>Business Transfers:</b> In the event of a merger, acquisition, or asset sale, your information may be transferred as part of the transaction.
 </li>
 </ul>
 <h3>Security of Your Information</h3>
@@ -56,11 +56,11 @@
 </p>
 <h3>Your Rights and Choices</h3>
 <ul>
-    <li>Access and Update: You can access and update your personal information by logging into your account or contacting us directly.
+    <li><b>Access and Update:</b> You can access and update your personal information by logging into your account or contacting us directly.
 </li>
-    <li>Opt-Out: You can opt out of receiving promotional communications by following the unsubscribe instructions in those communications.
+    <li><b>Opt-Out:</b> You can opt out of receiving promotional communications by following the unsubscribe instructions in those communications.
 </li>
-    <li>Cookies: You can manage your cookie preferences through your browser settings. Please note that disabling cookies may affect the functionality of our Site.
+    <li><b>Cookies:</b> You can manage your cookie preferences through your browser settings. Please note that disabling cookies may affect the functionality of our Site.
 </li>
 </ul>
 <h3>Children’s Privacy</h3>
