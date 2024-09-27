@@ -6,7 +6,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <a href="/" class="logo">
-                                <img src="{{ config('app.url') }}/assets/img/logo/education-online.png" alt="educated">
+                                <img src="{{ config('app.url') }}/assets/img/logo/educated.gif" alt="educated">
                             </a>
                             <p>Educated is a digital education platform, through which one can do online marketing
                                 courses, technical courses, language courses, and social-related.</p>
