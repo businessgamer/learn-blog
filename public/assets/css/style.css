@@ -4,7 +4,7 @@ Default CSS
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;display=swap");
 :root {
   --fontFamily: 'DM Sans', sans-serif;
-  --mainColor: #ff7e84;
+  --mainColor: #ad8400;
   --secounderyColor: #30bead;
   --paragraphColor: #7b7b8a;
   --whiteColor: #ffffff;
@@ -3457,7 +3457,7 @@ Edu Faq Area CSS
 
 .faq-button:not(.collapsed){
   color: var(--whiteColor);
-  background-color: var(--secounderyColor);
+  background-color: #1020db;
 }
 
 .faq-button span {
