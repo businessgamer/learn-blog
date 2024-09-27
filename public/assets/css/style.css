@@ -100,7 +100,7 @@ p:last-child {
 
 /*default-btn*/
 .default-btn {
-  background-color: var(--mainColor);
+  background-color: #0a1aed;
   -webkit-transition: var(--transition);
   transition: var(--transition);
   padding: 15px 32px;
@@ -264,7 +264,7 @@ textarea.form-control {
 Top Navbar Area CSS
 =================================================*/
 .edu-top-navbar{
-  background-color: var(--mainColor);
+  background-color: #0a1aed;
   padding-top: 10px;
 }
 
@@ -826,7 +826,7 @@ Edu Banner Area CSS
   position: absolute;
   right: 20px;
   top: 10px;
-  background-color: var(--mainColor);
+  background-color: #0a1aed;
   color: var(--whiteColor);
 }
 
@@ -1606,7 +1606,7 @@ Edu Single Courses Area CSS
 }
 
 .course-tabs .course-nav .active {
-  background-color: var(--mainColor);
+  background-color: #0a1aed;
   color: var(--whiteColor);
 }
 
@@ -5007,7 +5007,7 @@ Edu Footer Area CSS
 }
 
 .single-footer-widget h3 {
-  color: var(--whiteColor);
+  color: #0a1aed;
   font-size: 22px;
   margin-bottom: 20px;
   padding-bottom: 7px;
@@ -5153,7 +5153,7 @@ Go Top CSS
   cursor: pointer;
   bottom: 20px;
   right: 20px;
-  background-color: var(--mainColor);
+  background-color: #0a1aed;
   color: var(--whiteColor);
   z-index: 4;
   width: 43px;
