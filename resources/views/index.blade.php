@@ -143,7 +143,7 @@
     <div class="whycontainer">
         <div class="left-section">
             <div class="circle-image">
-                <img src="https://via.placeholder.com/300x300" alt="Student Image">
+                <img src="{{ config('app.url') }}/assets/img/why-educated.webp" alt="why choose educated">
             </div>
             <div class="icon icon-heart">
                 <img src="https://via.placeholder.com/32x32" alt="Heart Icon">
