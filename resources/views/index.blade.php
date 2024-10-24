@@ -144,7 +144,7 @@
              <div class="whycontainer">
         <div class="left-section">
             <div class="circle-image">
-                <img src="{{ config('app.url') }}/assests/img/why-educated.webp" alt="Student Image">
+<img src="{{ config('app.url') }}/assets/img/why-educated.webp" alt="why educated">     
             </div>
             <div class="whyicon icon-heart">
                 <img src="https://via.placeholder.com/32x32" alt="Heart Icon">
