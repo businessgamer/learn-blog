@@ -140,14 +140,18 @@
     </div>
 </div>
 <!-- End Educated Brands-area -->
-    <div class="whycontainer">
+    
+             <div class="whycontainer">
         <div class="left-section">
             <div class="circle-image">
-                <img src="{{ config('app.url') }}/assets/img/why-educated.webp" alt="why choose educated">
+                <img src="https://via.placeholder.com/300x300" alt="Student Image">
             </div>
-            <div class="icon icon-heart">
+            <div class="whyicon icon-heart">
                 <img src="https://via.placeholder.com/32x32" alt="Heart Icon">
                 <span>54000+ Lessons</span>
+            </div>
+            <div class="whyicon icon-student">
+                <img src="https://via.placeholder.com/32x32" alt="Student Icon">
             </div>
         </div>
 
