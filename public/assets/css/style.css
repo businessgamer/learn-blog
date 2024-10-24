@@ -5211,7 +5211,6 @@ whytab {
     background-color: #fff;
     border-radius: 20px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-    width: 80%;
     max-width: 1200px; /* Set maximum width */
     flex-wrap: wrap; /* Allow wrapping on smaller screens */
 }
