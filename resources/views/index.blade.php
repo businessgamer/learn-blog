@@ -140,50 +140,7 @@
     </div>
 </div>
 <!-- End Educated Brands-area -->
-<whytab>
-    <div class="container">
-        <div class="left-section">
-            <div class="circle-image">
-                <img src="https://via.placeholder.com/300x300" alt="Student Image">
-            </div>
-            <div class="icon icon-heart">
-                <img src="https://via.placeholder.com/32x32" alt="Heart Icon">
-                <span>54000+ Lessons</span>
-            </div>
-            <div class="icon icon-student">
-                <img src="https://via.placeholder.com/32x32" alt="Student Icon">
-            </div>
-        </div>
 
-        <div class="right-section">
-            <h2>Why Learn With Meducination?</h2>
-            <div class="feature">
-                <div class="feature-icon">
-                    <img src="https://via.placeholder.com/24x24" alt="Icon">
-                </div>
-                <div class="feature-text">Gain new skills on a flexible schedule</div>
-            </div>
-            <div class="feature">
-                <div class="feature-icon">
-                    <img src="https://via.placeholder.com/24x24" alt="Icon">
-                </div>
-                <div class="feature-text">Practical Learning</div>
-            </div>
-            <div class="feature">
-                <div class="feature-icon">
-                    <img src="https://via.placeholder.com/24x24" alt="Icon">
-                </div>
-                <div class="feature-text">Created by Top Medical Professionals</div>
-            </div>
-            <div class="feature">
-                <div class="feature-icon">
-                    <img src="https://via.placeholder.com/24x24" alt="Icon">
-                </div>
-                <div class="feature-text">Credentials to enhance your CV</div>
-            </div>
-        </div>
-    </div>
-</whytab>
 <!-- Start Educated Services Area -->
 <div class="edu-services-area ptb-100">
     <div class="container">
