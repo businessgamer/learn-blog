@@ -5190,3 +5190,100 @@ Go Top CSS
   background-color: var(--secounderyColor);
   color: var(--whiteColor);
 }
+
+
+whytab {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    width: 80%;
+}
+
+.left-section {
+    position: relative;
+    width: 300px;
+    height: 300px;
+}
+
+.circle-image {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 5px solid #ff4646;
+}
+
+.circle-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.icon {
+    position: absolute;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+    font-size: 16px;
+}
+
+.icon-heart {
+    top: 50%;
+    left: -30px;
+    transform: translate(-50%, -50%);
+}
+
+.icon-student {
+    bottom: -20px;
+    right: -20px;
+}
+
+.right-section {
+    margin-left: 50px;
+}
+
+.right-section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.feature {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.feature-icon {
+    background-color: #e8f4ff;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.feature-icon img {
+    width: 24px;
+    height: 24px;
+}
+
+.feature-text {
+    font-size: 18px;
+    color: #555;
+}
