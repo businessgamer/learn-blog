@@ -235,7 +235,7 @@
 <!-- End Educated platform Area -->
 
 <!-- Start Educated Topics Area -->
-<div class="edu-topics-area pt-100">
+<!-- <div class="edu-topics-area pt-100">
     <div class="container">
         <div class="edu-section-title">
             <p class="sub-title">Start Learning From Today</p>
@@ -260,7 +260,7 @@
         </div>
         @endif
     </div>
-</div>
+</div>-->
 <!-- End Educated Topics Area -->
 
 <!-- Start Educated Counter Area -->
