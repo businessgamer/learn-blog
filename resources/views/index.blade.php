@@ -234,34 +234,7 @@
 </div>
 <!-- End Educated platform Area -->
 
-<!-- Start Educated Topics Area -->
-<!-- <div class="edu-topics-area pt-100">
-    <div class="container">
-        <div class="edu-section-title">
-            <p class="sub-title">Start Learning From Today</p>
-            <h2>Popular <span class="shape02">Topics</span> To Learn </h2>
-        </div>
-        @if(isset($categories) && count($categories) > 0)
-        <div class="row justify-content-center">
-            @foreach($categories as $category)
-            <div class="col-lg-3 col-md-6 col-sm-12">
-                <a href="{{ route('blogs.category', $category->slug) }}" class="topic-box">
-                    <div class="single-topic-box lg-01">
-                        <div class="icon">
-                            <img src="{{Voyager::image($category->icon)}}" alt="icon">
-                        </div>
-                        <div class="content">
-                            <h3>{{$category->name}}</h3>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            @endforeach
-        </div>
-        @endif
-    </div>
-</div>-->
-<!-- End Educated Topics Area -->
+
 
 <!-- Start Educated Counter Area -->
 <div class="edu-counter-area">
