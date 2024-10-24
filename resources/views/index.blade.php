@@ -150,9 +150,6 @@
                 <img src="https://via.placeholder.com/32x32" alt="Heart Icon">
                 <span>54000+ Lessons</span>
             </div>
-            <div class="whyicon icon-student">
-                <img src="https://via.placeholder.com/32x32" alt="Student Icon">
-            </div>
         </div>
 
         <div class="right-section">
