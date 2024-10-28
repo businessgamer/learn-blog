@@ -728,7 +728,7 @@ Edu Banner Area CSS
 }
 
 .edu-banner-content span {
-  color: var(--secounderyColor);
+  color: #ad8400;
 }
 
 .edu-banner-content .fl-default-btn {
@@ -2508,7 +2508,7 @@ Edu Counter Area CSS
   line-height: 1;
   font-size: 44px;
   margin-bottom: 10px;
-  color: var(--secounderyColor);
+  color: #1403f4;
 }
 
 .counter-box .counter-list li p {
@@ -5292,7 +5292,7 @@ font-family: Arial, sans-serif;
 
 .feature-text {
     font-size: 18px;
-    color: #555;
+    color: #fff;
 }
 
 /* Responsive Design */
