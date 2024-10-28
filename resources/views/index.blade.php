@@ -153,7 +153,7 @@
         </div>
 
         <div class="right-section">
-            <h2>Why Learn With Meducination?</h2>
+            <h3>Why Learn With Educated?</h3>
             <div class="feature">
                 <div class="feature-icon">
                     <img src="https://via.placeholder.com/24x24" alt="Icon">
