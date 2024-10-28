@@ -2469,7 +2469,7 @@ Edu Counter Area CSS
 }
 
 .counter-box{
-  background-color: var(--whiteColor);
+  background-color: #ad8400;
   -webkit-box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.09);
           box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.09);
   padding: 50px 30px;
@@ -5208,7 +5208,7 @@ font-family: Arial, sans-serif;
     align-items: center;
     justify-content: center;
     padding: 40px;
-    background-color: #fff;
+    background-color: #ad8400;
     border-radius: 20px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     max-width: 1400px;
